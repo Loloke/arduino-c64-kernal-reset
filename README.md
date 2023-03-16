@@ -7,3 +7,10 @@ Installation run the flash.bat (either on windows/linux/macos). For flashing, yo
 
 ## arduino sketch
 I modified the original code, and inverted the logic of the power led, and increased the initial reset delay from 200ms to 500.
+
+## original video from Adrian Black
+https://www.youtube.com/watch?v=GPq5xnJRw2w
+[![Adrian Black C64 Kernal Switcher](http://img.youtube.com/vi/GPq5xnJRw2w/0.jpg)](https://www.youtube.com/watch?v=GPq5xnJRw2w "How-To: C64 Arduino based Restore Key/Four Kernal Switcher/Hard Reset")
+
+## finding exrom / reset / restore
+https://support.retrorewind.ca/commodore/c64/sks64#wiring
