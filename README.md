@@ -6,4 +6,4 @@ On the C64 short board (eg. 250469), the cold boot reset is way shorter (2-300ms
 Installation run the flash.bat (either on windows/linux/macos). For flashing, you need some AVR programmer hardware (i used usbasp), and avrdude installed.
 
 ## arduino sketch
-I modified the original code, and inverted the logic of the power led.
+I modified the original code, and inverted the logic of the power led, and increased the initial reset delay from 200ms to 500.
